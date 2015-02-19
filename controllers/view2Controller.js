@@ -1,0 +1,1 @@
+app.register.controller("View2Controller",["$scope",function(a){a.myview="Mr Mitra"}]);

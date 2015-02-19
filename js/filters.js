@@ -1,0 +1,1 @@
+app.filter("interpolate",["version",function(a){return function(b){return String(b).replace(/\%VERSION\%/gm,a)}}]);
